@@ -1,6 +1,7 @@
 # Inclusion-Project-for-Horiseon
 
-[Project Image](./assets/images/brand-awareness.png)
+[Project Image](./assets/images/Screen Shot 2022-08-18 at 10.41.57 PM)
+
 
 Code editing and Support for Horiseon Webpage
 
@@ -14,4 +15,5 @@ Strong tags were added to site links to emphasize importance.
 
 Code was seperated and formatted for better viewing.
 
-
+https://github.com/kaleikautakaoka/Inclusion-Project-for-Horiseon
+https://kaleikautakaoka.github.io/Inclusion-Project-for-Horiseon/
